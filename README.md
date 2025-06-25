@@ -2,7 +2,7 @@
 
 # 💫 Welcome to Zayn's Digital Universe
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Game+Development+Explorer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Java+Developer;Aspiring+AI+Engineer;Game+Development+Explorer" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ZayniBaloch&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
@@ -18,9 +18,9 @@ const zayn = {
     name: "Zayn Baloch",
     username: "ZayniBaloch",
     location: "🌍 Digital Nomad",
-    passions: ["Machine Learning", "Software Development", "Game Development"],
-    currentlyLearning: ["C++", "Advanced Algorithms", "Neural Networks"],
-    lookingToCollaborate: "C/C++ Projects & Open Source",
+    strengths: ["Java Programming", "Software Development", "Game Development"],
+    currentlyLearning: ["AI & Machine Learning", "C++", "Advanced Algorithms"],
+    lookingToCollaborate: "Java/C++ Projects & Open Source",
     funFact: "The coder who used to hate math 📐➡️❤️",
     motto: "Code with passion, debug with patience"
 };
@@ -32,6 +32,7 @@ const zayn = {
 
 ### 💻 Programming Languages
 <p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -40,18 +41,20 @@ const zayn = {
 
 ### 🔧 Tools & Technologies
 <p>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-### 🧠 AI & Machine Learning
+### 🌱 Currently Learning - AI & ML
 <p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Learning-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Learning TensorFlow"/>
+  <img src="https://img.shields.io/badge/Learning-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Learning Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Learning-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Learning NumPy"/>
+  <img src="https://img.shields.io/badge/Learning-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Learning Pandas"/>
 </p>
 
 </div>
@@ -95,9 +98,9 @@ const zayn = {
 
 | 🎓 Education | 🏅 Certifications | 🚀 Current Goals |
 |--------------|-------------------|------------------|
-| CS50 Harvard | In Progress | Master C++ |
-| Self-taught ML | Building Portfolio | Contribute to OSS |
-| Game Dev | Learning Unity | Build Real Projects |
+| CS50 Harvard | In Progress | Master AI/ML |
+| Java Programming | Proficient | Advanced Java Projects |
+| Learning AI/ML | Building Foundation | Data Science Career |
 
 </div>
 
