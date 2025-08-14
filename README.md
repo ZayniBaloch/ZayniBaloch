@@ -220,7 +220,7 @@ console.log(`${zaynBaloch.name} is revolutionizing tech! 🚀`);
   <a href="https://github.com/ZayniBaloch">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/zaynbaloch">
+  <a href="https://www.linkedin.com/in/zayn-gurmani-675422288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
