@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=ZayniBaloch&label=Visitors&color=00d9ff&style=for-the-badge" alt="Visitors"/>
   <img src="https://img.shields.io/github/followers/ZayniBaloch?label=Followers&style=for-the-badge&color=00D9FF&labelColor=000000" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/ZayniBaloch?label=Stars&style=for-the-badge&color=FFD700&labelColor=000000" alt="Stars"/>
-  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Commits&query=$.totalCommits&url=https://github-readme-stats.vercel.app/api?username=ZayniBaloch%26show_icons=true%26count_private=true%26include_all_commits=true&style=for-the-badge&color=FF6B6B&labelColor=000000" alt="Total Commits"/>
+  <img src="https://img.shields.io/badge/Active%20Developer-2024-FF6B6B?style=for-the-badge&labelColor=000000&logo=github" alt="Active Developer"/>
 </div>
 
 <!-- Matrix Rain Effect -->
@@ -212,9 +212,10 @@ console.log(`${zaynBaloch.name} is revolutionizing tech! 🚀`);
 <!-- Real-time Metrics Dashboard -->
 <div align="center">
   <h3>⚡ Live Development Metrics ⚡</h3>
-  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Repositories&query=$.public_repos&url=https://api.github.com/users/ZayniBaloch&style=for-the-badge&color=00D9FF&labelColor=000000&logo=github" alt="Total Repos"/>
-  <img src="https://img.shields.io/badge/dynamic/json?label=Current%20Year%20Contributions&query=$.data.user.contributionsCollection.contributionCalendar.totalContributions&url=https://github-contributions-api.jogruber.de/v4/ZayniBaloch&style=for-the-badge&color=FFD700&labelColor=000000&logo=github-actions" alt="Year Contributions"/>
+  <img src="https://img.shields.io/github/followers/ZayniBaloch?label=Followers&style=for-the-badge&color=00D9FF&labelColor=000000&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/ZayniBaloch?label=Total%20Stars&style=for-the-badge&color=FFD700&labelColor=000000&logo=star" alt="Stars"/>
   <img src="https://img.shields.io/badge/Coding%20Since-2023-FF6B6B?style=for-the-badge&labelColor=000000&logo=calendar" alt="Coding Since"/>
+  <img src="https://img.shields.io/badge/Current%20Focus-Java%20%7C%20AI-00D9FF?style=for-the-badge&labelColor=000000&logo=target" alt="Current Focus"/>
 </div>
 
 ## 🌟 Achievements & Certifications
@@ -231,8 +232,8 @@ console.log(`${zaynBaloch.name} is revolutionizing tech! 🚀`);
 
 <!-- Coding Activity Timeline -->
 <div align="center">
-  <h3>🕒 Weekly Coding Activity</h3>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ZayniBaloch&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact" alt="Wakatime Stats"/>
+  <h3>🕒 Development Activity</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZayniBaloch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&custom_title=Development%20Overview" alt="Development Activity"/>
 </div>
 
 ## 📫 Connect With Me
