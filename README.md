@@ -148,17 +148,6 @@ console.log(`${zaynBaloch.name} is revolutionizing tech! 🚀`);
   <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZayniBaloch&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages"/>
 </div>
 
-<!-- Real-time Activity Stats -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZayniBaloch&theme=tokyonight" alt="Profile Summary"/>
-</div>
-
-<div align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZayniBaloch&theme=tokyonight" alt="Repos per Language"/>
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZayniBaloch&theme=tokyonight" alt="Most Commit Language"/>
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZayniBaloch&theme=tokyonight" alt="Stats"/>
-</div>
-
 <!-- Mind-blowing Trophies Section -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -228,12 +217,6 @@ console.log(`${zaynBaloch.name} is revolutionizing tech! 🚀`);
 | Java Programming | Proficient | Advanced Java Projects | ![Last Commit](https://img.shields.io/github/last-commit/ZayniBaloch/ZayniBaloch?style=flat&color=FFD700) |
 | Learning AI/ML | Building Foundation | Data Science Career | ![Repo Size](https://img.shields.io/github/repo-size/ZayniBaloch/ZayniBaloch?style=flat&color=FF6B6B) |
 
-</div>
-
-<!-- Coding Activity Timeline -->
-<div align="center">
-  <h3>🕒 Development Activity</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=ZayniBaloch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&custom_title=Development%20Overview" alt="Development Activity"/>
 </div>
 
 ## 📫 Connect With Me
