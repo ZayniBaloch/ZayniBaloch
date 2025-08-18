@@ -12,6 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=ZayniBaloch&label=Visitors&color=00d9ff&style=for-the-badge" alt="Visitors"/>
   <img src="https://img.shields.io/github/followers/ZayniBaloch?label=Followers&style=for-the-badge&color=00D9FF&labelColor=000000" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/ZayniBaloch?label=Stars&style=for-the-badge&color=FFD700&labelColor=000000" alt="Stars"/>
+  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Commits&query=$.totalCommits&url=https://github-readme-stats.vercel.app/api?username=ZayniBaloch%26show_icons=true%26count_private=true%26include_all_commits=true&style=for-the-badge&color=FF6B6B&labelColor=000000" alt="Total Commits"/>
 </div>
 
 <!-- Matrix Rain Effect -->
@@ -138,13 +139,24 @@ console.log(`${zaynBaloch.name} is revolutionizing tech! 🚀`);
 
 <!-- Epic Stats with Neon Glow -->
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ZayniBaloch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=FFD700" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZayniBaloch&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=FFD700&fire=FF6B6B&currStreakLabel=FFFFFF&sideLabels=00D9FF" alt="GitHub Streak"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ZayniBaloch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=FFD700&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZayniBaloch&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=FFD700&fire=FF6B6B&currStreakLabel=FFFFFF&sideLabels=00D9FF&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </div>
 
 <!-- Language Stats with Amazing Visuals -->
 <div align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZayniBaloch&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages"/>
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZayniBaloch&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Top Languages"/>
+</div>
+
+<!-- Real-time Activity Stats -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZayniBaloch&theme=tokyonight" alt="Profile Summary"/>
+</div>
+
+<div align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZayniBaloch&theme=tokyonight" alt="Repos per Language"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZayniBaloch&theme=tokyonight" alt="Most Commit Language"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZayniBaloch&theme=tokyonight" alt="Stats"/>
 </div>
 
 <!-- Mind-blowing Trophies Section -->
@@ -194,19 +206,33 @@ console.log(`${zaynBaloch.name} is revolutionizing tech! 🚀`);
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZayniBaloch&custom_title=Zayn's%20Contribution%20Galaxy&bg_color=0D1117&color=00D9FF&line=FFD700&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZayniBaloch&custom_title=Zayn's%20Contribution%20Galaxy&bg_color=0D1117&color=00D9FF&line=FFD700&point=FF6B6B&area=true&hide_border=true&theme=tokyo-night" alt="Contribution Graph"/>
+</div>
+
+<!-- Real-time Metrics Dashboard -->
+<div align="center">
+  <h3>⚡ Live Development Metrics ⚡</h3>
+  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Repositories&query=$.public_repos&url=https://api.github.com/users/ZayniBaloch&style=for-the-badge&color=00D9FF&labelColor=000000&logo=github" alt="Total Repos"/>
+  <img src="https://img.shields.io/badge/dynamic/json?label=Current%20Year%20Contributions&query=$.data.user.contributionsCollection.contributionCalendar.totalContributions&url=https://github-contributions-api.jogruber.de/v4/ZayniBaloch&style=for-the-badge&color=FFD700&labelColor=000000&logo=github-actions" alt="Year Contributions"/>
+  <img src="https://img.shields.io/badge/Coding%20Since-2023-FF6B6B?style=for-the-badge&labelColor=000000&logo=calendar" alt="Coding Since"/>
 </div>
 
 ## 🌟 Achievements & Certifications
 
 <div align="center">
 
-| 🎓 Education | 🏅 Certifications | 🚀 Current Goals |
-|--------------|-------------------|------------------|
-| CS50 Harvard | In Progress | Master AI/ML |
-| Java Programming | Proficient | Advanced Java Projects |
-| Learning AI/ML | Building Foundation | Data Science Career |
+| 🎓 Education | 🏅 Certifications | 🚀 Current Goals | 📊 GitHub Metrics |
+|--------------|-------------------|------------------|--------------------|
+| CS50 Harvard | In Progress | Master AI/ML | ![Commits](https://img.shields.io/github/commit-activity/m/ZayniBaloch/ZayniBaloch?style=flat&color=00D9FF) |
+| Java Programming | Proficient | Advanced Java Projects | ![Last Commit](https://img.shields.io/github/last-commit/ZayniBaloch/ZayniBaloch?style=flat&color=FFD700) |
+| Learning AI/ML | Building Foundation | Data Science Career | ![Repo Size](https://img.shields.io/github/repo-size/ZayniBaloch/ZayniBaloch?style=flat&color=FF6B6B) |
 
+</div>
+
+<!-- Coding Activity Timeline -->
+<div align="center">
+  <h3>🕒 Weekly Coding Activity</h3>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ZayniBaloch&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact" alt="Wakatime Stats"/>
 </div>
 
 ## 📫 Connect With Me
