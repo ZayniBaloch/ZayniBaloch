@@ -139,13 +139,13 @@ console.log(`${zaynBaloch.name} is revolutionizing tech! 🚀`);
 
 <!-- Epic Stats with Neon Glow -->
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ZayniBaloch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=FFD700&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ZayniBaloch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=FFD700" alt="GitHub Stats"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZayniBaloch&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=FFD700&fire=FF6B6B&currStreakLabel=FFFFFF&sideLabels=00D9FF&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </div>
 
 <!-- Language Stats with Amazing Visuals -->
 <div align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZayniBaloch&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Top Languages"/>
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZayniBaloch&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages"/>
 </div>
 
 <!-- Real-time Activity Stats -->
