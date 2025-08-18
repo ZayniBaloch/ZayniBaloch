@@ -16,7 +16,7 @@
 
 <!-- Matrix Rain Effect -->
 <div align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ZayniBaloch/ZayniBaloch/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <!-- About Me Section with Neon Glow -->
@@ -108,15 +108,15 @@ console.log(`${zaynBaloch.name} is revolutionizing tech! 🚀`);
         <br><sub>Learning TensorFlow</sub>
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" height="60"/>
+        <img src="https://skillicons.dev/icons?i=sklearn" width="60" height="60"/>
         <br><sub>Scikit-Learn</sub>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="60" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60"/>
         <br><sub>NumPy</sub>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/pandas-dev/pandas/main/web/pandas/static/img/pandas.svg" width="60" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60"/>
         <br><sub>Pandas</sub>
       </td>
     </tr>
