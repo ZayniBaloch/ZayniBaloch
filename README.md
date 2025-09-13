@@ -136,13 +136,13 @@ console.log(`${zaynBaloch.name}: Crafting digital experiences with precision ðŸŽ
 
 <!-- Epic Stats with Neon Glow -->
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ZayniBaloch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=FFD700" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZayniBaloch&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=FFD700&fire=FF6B6B&currStreakLabel=FFFFFF&sideLabels=00D9FF&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ZayniBaloch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=FFD700&count_private=true&include_all_commits=true&disable_animations=false&cache_seconds=300&v=202509140004" alt="GitHub Stats"/>
+  <img width="48%" src="https://streak-stats.demolab.com/?user=ZayniBaloch&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=FFD700&fire=FF6B6B&currStreakLabel=FFFFFF&sideLabels=00D9FF&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=300&v=202509140004" alt="GitHub Streak"/>
 </div>
 
 <!-- Language Stats with Amazing Visuals -->
 <div align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZayniBaloch&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages"/>
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZayniBaloch&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true&cache_seconds=300&v=202509140004" alt="Top Languages"/>
 </div>
 
 <!-- Mind-blowing Trophies Section -->
@@ -157,7 +157,7 @@ console.log(`${zaynBaloch.name}: Crafting digital experiences with precision ðŸŽ
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZayniBaloch&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ZayniBaloch&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=7&cache_seconds=300&v=202509140004" alt="GitHub Trophies"/>
 </div>
 
 <!-- Epic Featured Projects -->
@@ -192,7 +192,7 @@ console.log(`${zaynBaloch.name}: Crafting digital experiences with precision ðŸŽ
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZayniBaloch&custom_title=Zayn's%20Contribution%20Galaxy&bg_color=0D1117&color=00D9FF&line=FFD700&point=FF6B6B&area=true&hide_border=true&theme=tokyo-night" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZayniBaloch&custom_title=Zayn's%20Contribution%20Galaxy&bg_color=0D1117&color=00D9FF&line=FFD700&point=FF6B6B&area=true&hide_border=true&theme=tokyo-night&cache_seconds=300&v=202509140004" alt="Contribution Graph"/>
 </div>
 
 <!-- Real-time Metrics Dashboard -->
