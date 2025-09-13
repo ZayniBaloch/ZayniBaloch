@@ -1,9 +1,9 @@
 <!-- Header with Epic Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=ZAYN%20BALOCH&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Java%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Code%20Architect&descAlignY=55&descSize=25" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=ZAYN%20BALOCH&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20Code%20Architect&descAlignY=55&descSize=25" />
 
 <!-- Epic Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Java+Developer+%7C+Problem+Solver;%F0%9F%A4%96+Aspiring+AI+Engineer+%7C+Tech+Explorer;%F0%9F%8E%AE+Game+Developer+%7C+Creative+Coder;%E2%9A%A1+Building+the+Future+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Software+Developer+%7C+Problem+Solver;%F0%9F%8E%AE+Game+Developer+%7C+Creative+Coder;%F0%9F%8F%97%EF%B8%8F+Code+Architect+%7C+Tech+Explorer;%E2%9A%A1+Building+Digital+Solutions" alt="Typing SVG" />
 </div>
 
 <!-- Social Badges with Glow Effect -->
@@ -34,24 +34,24 @@
 ```typescript
 interface Developer {
   name: string;
-  location: string;
+  role: string;
   expertise: string[];
-  learning: string[];
+  currentFocus: string[];
   passion: string;
-  mission: string;
+  approach: string;
 }
 
 const zaynBaloch: Developer = {
   name: "Zayn Baloch",
-  location: "🌍 Digital Nomad | Code Everywhere",
-  expertise: ["Java Mastery", "Algorithm Design", "System Architecture"],
-  learning: ["AI/ML Engineering", "Neural Networks", "Deep Learning"],
-  passion: "Building intelligent systems that change the world 🌎",
-  mission: "Bridging the gap between Java and AI 🤖"
+  role: "Software Developer & Code Architect",
+  expertise: ["Java Development", "System Design", "Problem Solving"],
+  currentFocus: ["Web Development", "Game Development", "Software Architecture"],
+  passion: "Creating clean, efficient solutions to real-world problems",
+  approach: "Writing code that's not just functional, but maintainable and scalable"
 };
 
-// Current Status: Transforming ideas into reality
-console.log(`${zaynBaloch.name} is revolutionizing tech! 🚀`);
+// Building tomorrow's software today
+console.log(`${zaynBaloch.name}: Crafting digital experiences with precision 🎯`);
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -70,25 +70,47 @@ console.log(`${zaynBaloch.name} is revolutionizing tech! 🚀`);
 <!-- Epic Programming Languages with Neon Effect -->
 <table align="center">
   <tr>
-    <td align="center" width="200">
+    <td align="center" width="150">
       <img src="https://skillicons.dev/icons?i=java" width="80" height="80"/>
       <br><strong>Java</strong>
       <br><sub>Core Expertise</sub>
     </td>
-    <td align="center" width="200">
+    <td align="center" width="150">
       <img src="https://skillicons.dev/icons?i=c" width="80" height="80"/>
       <br><strong>C</strong>
       <br><sub>System Programming</sub>
     </td>
-    <td align="center" width="200">
+    <td align="center" width="150">
       <img src="https://skillicons.dev/icons?i=cpp" width="80" height="80"/>
       <br><strong>C++</strong>
       <br><sub>Performance</sub>
     </td>
-    <td align="center" width="200">
+    <td align="center" width="150">
       <img src="https://skillicons.dev/icons?i=python" width="80" height="80"/>
       <br><strong>Python</strong>
-      <br><sub>AI/ML Ready</sub>
+      <br><sub>Scripting</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=html" width="80" height="80"/>
+      <br><strong>HTML</strong>
+      <br><sub>Web Structure</sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=css" width="80" height="80"/>
+      <br><strong>CSS</strong>
+      <br><sub>Web Styling</sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=js" width="80" height="80"/>
+      <br><strong>JavaScript</strong>
+      <br><sub>Web Development</sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=git" width="80" height="80"/>
+      <br><strong>Git</strong>
+      <br><sub>Version Control</sub>
     </td>
   </tr>
 </table>
@@ -96,32 +118,7 @@ console.log(`${zaynBaloch.name} is revolutionizing tech! 🚀`);
 <!-- Development Environment -->
 <div align="center">
   <h3>🛠️ Development Environment</h3>
-  <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,git,github,linux" alt="Tools" />
-</div>
-
-<!-- AI Learning Journey -->
-<div align="center">
-  <h3>🤖 AI & Machine Learning Journey</h3>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="60" height="60"/>
-        <br><sub>Learning TensorFlow</sub>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=sklearn" width="60" height="60"/>
-        <br><sub>Scikit-Learn</sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60"/>
-        <br><sub>NumPy</sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60"/>
-        <br><sub>Pandas</sub>
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,git,github,linux,windows" alt="Tools" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -204,20 +201,10 @@ console.log(`${zaynBaloch.name} is revolutionizing tech! 🚀`);
   <img src="https://img.shields.io/github/followers/ZayniBaloch?label=Followers&style=for-the-badge&color=00D9FF&labelColor=000000&logo=github" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/ZayniBaloch?label=Total%20Stars&style=for-the-badge&color=FFD700&labelColor=000000&logo=star" alt="Stars"/>
   <img src="https://img.shields.io/badge/Coding%20Since-2023-FF6B6B?style=for-the-badge&labelColor=000000&logo=calendar" alt="Coding Since"/>
-  <img src="https://img.shields.io/badge/Current%20Focus-Java%20%7C%20AI-00D9FF?style=for-the-badge&labelColor=000000&logo=target" alt="Current Focus"/>
+  <img src="https://img.shields.io/badge/Current%20Focus-Java%20%7C%20Web%20Dev-00D9FF?style=for-the-badge&labelColor=000000&logo=target" alt="Current Focus"/>
 </div>
 
-## 🌟 Achievements & Certifications
 
-<div align="center">
-
-| 🎓 Education | 🏅 Certifications | 🚀 Current Goals | 📊 GitHub Metrics |
-|--------------|-------------------|------------------|--------------------|
-| CS50 Harvard | In Progress | Master AI/ML | ![Commits](https://img.shields.io/github/commit-activity/m/ZayniBaloch/ZayniBaloch?style=flat&color=00D9FF) |
-| Java Programming | Proficient | Advanced Java Projects | ![Last Commit](https://img.shields.io/github/last-commit/ZayniBaloch/ZayniBaloch?style=flat&color=FFD700) |
-| Learning AI/ML | Building Foundation | Data Science Career | ![Repo Size](https://img.shields.io/github/repo-size/ZayniBaloch/ZayniBaloch?style=flat&color=FF6B6B) |
-
-</div>
 
 ## 📫 Connect With Me
 
@@ -247,7 +234,7 @@ console.log(`${zaynBaloch.name} is revolutionizing tech! 🚀`);
 
 <div align="center">
 
-### 🎯 "Turning caffeine into code, one bug at a time" ☕💻
+### 🎯 "Clean code is not written by following a set of rules. Clean code is written by someone who cares." 💻
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=667EEA&height=100&section=footer" alt="Footer"/>
 
